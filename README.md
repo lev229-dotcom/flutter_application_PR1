@@ -1,16 +1,22 @@
-# flutter_application_6
+# Практическая работа №1
 
-A new Flutter project.
+# Тема: "Реализация верстки макетов на dart"
 
-## Getting Started
+# Цель работы: Реализовать вёрстку по представленным макетам на dart
 
-This project is a starting point for a Flutter application.
+# Ход работы: При реализации верстки данного макета были использованы: Scaffold, Container, Expanded, InkWell, Row, Column. Чтобы закруглить кнопки использовался класс – BoxDecoration.
+ ![image](https://user-images.githubusercontent.com/76443145/192104651-30b71daf-20dc-48c1-a4cc-ca163209fcbf.png)
 
-A few resources to get you started if this is your first Flutter project:
+Рисунок 1 - макет 2
+# Для создания данного окна использовались те же элементы, что и при создании первого окна, а также – Scrollbar для прокрутки 
+ 
+ ![image](https://user-images.githubusercontent.com/76443145/192104658-30dd3aa1-9a71-49b7-8c72-3a7e1963abd0.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Рисунок 2 - макет 3
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# На данном окне использовались в основном Container (для работы с текстом) и InkWell (для работы с кнопками)
+ 
+ ![image](https://user-images.githubusercontent.com/76443145/192104665-f9286f0a-72a2-4583-a734-b912d0d7c6ec.png)
+
+Рисунок 3 - макет 4
+# Вывод: в ходе данной практической работы было реализована верстка трех макетов на языке программирования Dart.
